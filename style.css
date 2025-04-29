@@ -7,7 +7,7 @@ body
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    background: #18a999;
+    /* background: #18a999; */
     background-image: url('bg-tic-tac-toe.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
